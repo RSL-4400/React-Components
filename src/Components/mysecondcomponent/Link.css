@@ -1,0 +1,11 @@
+button{
+    margin-top: 20px;
+    margin-bottom: 10px;
+    border: 1px solid black;
+    padding: 3px;
+    cursor: pointer;
+    text-decoration: aliceblue;
+}
+button:hover{
+    background-color: blue;
+}
